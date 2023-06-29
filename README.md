@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="150"/><br>
+  <img src="https://github.com/Sivadasps/Sivadasps/assets/127499100/84719b9a-58bd-482b-91c0-29e528292974" height="300" /><br>
    <h1>Hi there, I'm Siva</h1>
 </div>
 
