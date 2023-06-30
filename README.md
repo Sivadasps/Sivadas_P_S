@@ -1,7 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/Sivadasps/Sivadasps/assets/127499100/84719b9a-58bd-482b-91c0-29e528292974"  /><br>
-  <img src="https://github.com/Sivadasps/Sivadasps/assets/127499100/5f55513c-3543-4e86-805e-215e5cb5962d"  /><br>
+  <img src="https://github.com/Sivadasps/Sivadasps/assets/127499100/e79cd7fe-a2cc-42e5-b3c7-3166203fb1a5" width="200" height="200" /><br>
    <h1>Hi there, I'm Siva</h1>
 </div>
 
