@@ -23,7 +23,7 @@
 <h2>About me</h2>
 <h4>Data Science Graduate | MBA | B.com </h4>
 <ul>
- <li>I’m currently working on projects regarding Data Science and looking forward for relevent job.</li> 
+ <li> I’m currently working on projects regarding Data Science and looking forward for relevent job.</li> 
   <li>I’m currently learning deeply about many AI techniques about analysing data and building model.</li> 
   <li>I’m looking to collaborate with companies to work and learn along with data.</li> 
   <li>I’m looking for help with new ideas and techniques about the data world.</li> 
