@@ -23,10 +23,10 @@
 <h2>About me</h2>
 <h4>Data Science Graduate | MBA | B.com </h4>
 <ul>
- <li> Data science graduate equipped .</li> 
-  <li>I’m currently learning deeply about many AI techniques about analysing data and building model.</li> 
-  <li>I’m looking to collaborate with companies to work and learn along with data.</li> 
-  <li>I’m looking for help with new ideas and techniques about the data world.</li> 
+ <li> Data science graduate actively seeking job opportunities while undertaking relevant projects.</li> 
+  <li>I actively participate in online courses and workshops, as well as engage in personal projects.</li> 
+  <li>Currently, I am studying NLP to further widen my knowledge by undertaking a particular project for the same.</li> 
+  <li>I’m looking forward to upskill myself towards meeting the expeted requirements in the current market scenario.</li> 
 </ul>
 
 <h2>Languages & tools</h2>
